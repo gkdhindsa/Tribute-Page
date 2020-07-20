@@ -1,0 +1,45 @@
+body{
+  background-color: #EEEEEE;
+  font-family: 'Roboto', sans-serif;
+  color: #333333;
+  text-align: center;
+}
+#title{
+  padding: 1em 0em; 
+}
+#img-div{
+  background-color: #FFFFFF;
+  margin: 0em 1em;
+  padding:0em 5em;
+}
+#img-caption{
+  padding: 1em 2em;
+  
+}
+#tribute-info{
+  display: block;
+}
+#tribute-info h3{
+  padding: 2em 0em;
+}
+ul, cite{
+  display: block;
+  margin: 0px auto 0px auto;
+  max-width: 540px;
+  text-align: left;
+  line-height: 1.8em;
+}
+#citation{
+  margin-top: 3em;
+}
+#tribute-link{
+  color: #477CA7;
+}
+
+#image{
+  max-width: 100%;
+  display: block;
+  justify-self: center;
+  height: auto;
+  margin: 0 auto;
+}
